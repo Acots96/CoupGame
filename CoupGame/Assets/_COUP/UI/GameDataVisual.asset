@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 308baa46111ee95488a07408af0d39e6, type: 3}
+  m_Name: GameDataVisual
+  m_EditorClassIdentifier: 
+  _reverseColor: {r: 0.5660378, g: 0.5660378, b: 0.5660378, a: 1}
+  _cards:
+  - {fileID: 11400000, guid: 72312a852083135438477a0203d19ea8, type: 2}
+  - {fileID: 11400000, guid: 2b7cec0ba80a6c24cbce90712a2b03f4, type: 2}
+  - {fileID: 11400000, guid: 85b217fe2a36b7b448aa16dd0e136103, type: 2}
+  - {fileID: 11400000, guid: 3d93156f56143144097f85d94bda3953, type: 2}
+  - {fileID: 11400000, guid: bbc3dfebdc0bbf641a78338e55df1db2, type: 2}
+  _playerInputPrefab: {fileID: 2035509838421606645, guid: d34f9f8cb831bdb4e9512e5c271a5e75, type: 3}
+  _playerAgentPrefab: {fileID: 2035509838421606645, guid: baca30e967ffeb54e96dd7a9f28f4049, type: 3}
+  _cardPrefab: {fileID: 7171162571823547556, guid: 74dc8dd9610708749916e147920791ce, type: 3}
+  _deckPrefab: {fileID: 2035509838421606645, guid: 3b6b37f975c009b40b01001d64d9116e, type: 3}
